@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/week2 dc4 ning jiang.unity
+  isLoaded: 1
+  isActive: 1
